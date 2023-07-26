@@ -47,8 +47,8 @@ The program was appropriately run using Python 3.11., however, older versions mi
 * **ML Pipeline Preparation.ipynb**: The Jupyter notebook that is used to develop train_classifier.py code
 
 #### "app" folder: 
-* **run.py**: The python excutuble code to load the web application
-* **templates**: folder containing the templates for the webb app
+* **run.py**: The python executuble code to load the web application
+* **templates**: folder containing the templates for the web app
 
 #### "Scrennshot" folder: 
 Contains the screenshots of the web app and the terminal commands/outputs
